@@ -1,0 +1,19 @@
+{
+  "name": "cardash",
+  "version": "1.0.0",
+  "description": "Car Dash game on the web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/babyico/cardash.git"
+  },
+  "author": "Iconical | Laith Alkhaddam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/babyico/cardash/issues"
+  },
+  "homepage": "https://github.com/babyico/cardash#readme"
+}

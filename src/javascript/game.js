@@ -41,7 +41,7 @@ const ASSETS = {
   },
 
   AUDIO: {
-    theme: "src/music/mixBg.wav",
+    theme: "src/music/enjoythesilence.mp3",
     engine: "src/music/engine.wav",
     honk: "src/music/honk.wav",
     beep: "src/music/beep.wav",
